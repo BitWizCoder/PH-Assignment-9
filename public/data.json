@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "php and laravel",
+        "price": 159.99,
+        "image": "https://i.ibb.co/VNb14V4/php-and-laravel.png",
+        "description": "Dive into the world of PHP and Laravel at our summit, where industry experts share insights, best practices, and cutting-edge techniques. Explore the power of these versatile technologies for web development, and discover how they can enhance your projects, boost productivity, and streamline your coding experience. Join us to harness the full potential of PHP and Laravel and stay at the forefront of modern web development."
+    },
+    {
+        "id": 2,
+        "title": "Python",
+        "price": 159.99,
+        "image": "https://i.ibb.co/3RKjH35/python.png",
+        "description": "Join us at our Python summit, where programming enthusiasts and experts gather to explore the endless possibilities of this versatile language. From data science and machine learning to web development and automation, discover how Python can power your projects and elevate your coding skills. Dive into the world of Python, unlock its capabilities, and connect with a community of like-minded developers. Whether you're a beginner or an experienced coder, our Python summit has something for everyone."
+    },
+    {
+        "id": 3,
+        "title": "Front-end development",
+        "price": 159.99,
+        "image": "https://i.ibb.co/sgJ3Ffz/front-end.png",
+        "description": "Immerse yourself in the dynamic world of front-end development at our summit. Join top industry professionals and visionaries as they dive into the latest trends, tools, and techniques that define modern web design and user experience. Explore the art of crafting interactive and visually stunning websites and applications. Whether you're a seasoned front-end developer or just starting your journey, our summit is your gateway to mastering the skills and strategies that drive the digital frontier. Elevate your front-end development game and be part of the design revolution."
+    },
+    {
+        "id": 4,
+        "title": "Backend development",
+        "price": 159.99,
+        "image": "https://i.ibb.co/9gV1DbM/back-end.png",
+        "description": "Dive deep into the world of backend development at our summit. Join leading experts and pioneers in the field as they unravel the complexities of building robust, scalable, and efficient server-side systems. Discover the latest technologies and best practices that power the backbone of modern web applications and services. Whether you're an experienced backend developer or looking to enhance your backend skills, our summit offers invaluable insights and networking opportunities to help you master the art of server-side programming. Elevate your backend development expertise and be at the forefront of the digital revolution."
+    },
+    {
+        "id": 5,
+        "title": "Web Scraping",
+        "price": 159.99,
+        "image": "https://i.ibb.co/mtX2zxg/web-scraping.png",
+        "description": "Join us at our Web Scraping Summit, where data enthusiasts, analysts, and developers come together to explore the art and science of extracting valuable information from the web. Learn from experts about the latest techniques, tools, and ethical considerations in web scraping. Discover how web scraping can empower your research, analytics, and business intelligence efforts. Whether you're a seasoned scraper or just starting out, our summit provides a platform to dive deep into the world of data acquisition from the web. Unleash the potential of web scraping and gain the competitive edge in today's data-driven world."
+    },
+    {
+        "id": 6,
+        "title": "UI/UX Design",
+        "price": 159.99,
+        "image": "https://i.ibb.co/G0sqs2g/ui-ux.png",
+        "description": "Welcome to our UI/UX Design Summit, where design thinkers, innovators, and user experience enthusiasts converge to explore the principles and practices that shape exceptional digital experiences. Join industry leaders as they delve into the art and science of creating user interfaces that captivate and delight. Discover the latest trends, tools, and strategies for crafting intuitive and visually stunning designs that drive user engagement and satisfaction. Whether you're an established designer or just embarking on your UI/UX journey, our summit is your canvas to master the craft of creating memorable user experiences. Elevate your UI/UX design expertise and make a lasting impact in the digital realm."
+    }
+]
